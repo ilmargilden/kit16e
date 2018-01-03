@@ -19,6 +19,11 @@ echo "$tervitus world!<br>";
 echo '$tervitus world!<br>';
 echo $massiiv[0];
 
+if($bool == False){
+
+  print_r ($massiiv);
+} else {echo "Tõeväärtus ei vasta nõutule"; }
+
 
 
 ?>
